@@ -26,7 +26,6 @@ I am a Medellín-based software engineer with 5+ years delivering maintainable .
 
 ## Collaboration & outreach
 - **Languages:** Spanish (native), English (B2)
-- **Contact:** [diegoVasquezColombia@gmail.com](mailto:diegoVasquezColombia@gmail.com) · [+57 313 8940958](tel:+573138940958) · [Medellín, Colombia](https://www.openstreetmap.org/relation/1200272)
 - **GitHub:** [@diegovasquez600](https://github.com/diegovasquez600)
 
 If you share a passion for building reliable software with open source principles—or need help scaling .NET applications with modern DevOps practices—let’s connect and create something impactful.
